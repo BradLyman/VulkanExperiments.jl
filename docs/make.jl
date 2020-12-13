@@ -18,4 +18,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/BradLyman/VulkanExperiments.jl",
+    devbranch="main"
 )
