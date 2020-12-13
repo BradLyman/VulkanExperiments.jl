@@ -8,5 +8,8 @@ CurrentModule = VulkanExperiments
 ```
 
 ```@autodocs
-Modules = [VulkanExperiments]
+Modules = [
+  VulkanExperiments,
+  VulkanExperiments.DrawingATriangle.Setup
+]
 ```

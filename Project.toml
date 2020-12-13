@@ -3,6 +3,10 @@ uuid = "c962a442-91c7-4cce-864c-8542dca0494c"
 authors = ["Bradley Lyman <lyman.brad3211@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+VulkanCore = "16167f82-ea26-5cba-b1de-ed6fd5e30a11"
+
 [compat]
 julia = "1"
 
