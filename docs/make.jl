@@ -13,6 +13,11 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "Drawing A Triangle" => [
+            "DrawingATriangle/0_Setup.md",
+            "DrawingATriangle/1_Instance.md",
+        ],
+        "Index" => "reference.md"
     ],
 )
 

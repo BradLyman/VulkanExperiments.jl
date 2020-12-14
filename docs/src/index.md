@@ -1,16 +1,3 @@
-```@meta
-CurrentModule = VulkanExperiments
-```
+# Vulkan Experiments
 
-# VulkanExperiments
-
-```@index
-```
-
-```@autodocs
-Modules = [
-  VulkanExperiments,
-  VulkanExperiments.DrawingATriangle.Setup,
-  VulkanExperiments.DrawingATriangle.Instance
-]
-```
+Experiments with Julia and Vulkan.
