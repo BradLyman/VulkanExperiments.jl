@@ -10,6 +10,7 @@ CurrentModule = VulkanExperiments
 ```@autodocs
 Modules = [
   VulkanExperiments,
-  VulkanExperiments.DrawingATriangle.Setup
+  VulkanExperiments.DrawingATriangle.Setup,
+  VulkanExperiments.DrawingATriangle.Instance
 ]
 ```
